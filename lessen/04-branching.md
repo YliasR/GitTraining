@@ -23,7 +23,7 @@ Dit is superhandig wanneer je:
 git checkout -b mijn-feature
 ```
 
-Dit doet twee dingen: maakt de branch **en** switcht ernaar.
+Dit doet twee dingen: **maakt** de branch aan en **switcht** ernaar.
 
 ### Alle branches bekijken
 
