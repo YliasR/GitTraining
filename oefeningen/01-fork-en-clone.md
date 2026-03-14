@@ -41,4 +41,5 @@ git status
 - [ ] `git remote -v` toont jouw fork
 - [ ] `git status` werkt zonder errors
 
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/02-fork-en-clone.md)!**
 **Klaar? Ga door naar [oefening 2](02-commit-en-push.md)!**
