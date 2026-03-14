@@ -1,4 +1,4 @@
-# Les 1: Wat is Git & GitHub?
+# Les 1: Wat zijn Git & GitHub?
 
 ## Het probleem
 
