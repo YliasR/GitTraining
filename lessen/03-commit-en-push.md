@@ -1,4 +1,4 @@
-# Les 3: Wijzigingen maken - Stage, Commit & Push
+# Les 3: Stage (Add), Commit & Push
 
 ## De drie zones van Git
 
