@@ -50,7 +50,6 @@ GitHub biedt extra features bovenop Git:
 | Houdt versies bij | Slaat je repo online op |
 | Werkt offline | Heeft internet nodig |
 | Command line tool | Grafische interface + extra features |
-| Gemaakt door Linus Torvalds (2005) | Gemaakt door Tom Preston-Werner (2008) |
 
 ## Waarom is dit belangrijk?
 
