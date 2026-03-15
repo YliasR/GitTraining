@@ -15,14 +15,13 @@ Open `python/kleuren.py` en verander de `favoriete_kleur` functie:
 
 ```python
 def favoriete_kleur():
-    """Geeft de favoriete kleur terug."""
-    return "groen"    # Was "blauw", nu "groen"
+    return "blauw"    # Verander "groen" naar "blauw"
 ```
 
 Commit deze wijziging:
 ```bash
 git add python/kleuren.py
-git commit -m "verander favoriete kleur naar groen"
+git commit -m "verander favoriete kleur naar blauw"
 ```
 
 ### 3. Maak een nieuwe branch VANUIT een eerdere commit
@@ -37,8 +36,7 @@ Open `python/kleuren.py` en verander de `favoriete_kleur` functie:
 
 ```python
 def favoriete_kleur():
-    """Geeft de favoriete kleur terug."""
-    return "rood"    # Was "blauw", nu "rood"
+    return "rood"    # Verander naar "rood"
 ```
 
 Commit:
@@ -53,16 +51,15 @@ git checkout main
 git merge feature/andere-kleur
 ```
 
-**CONFLICT!** Git kan niet kiezen tussen "groen" en "rood".
+**CONFLICT!** Git kan niet kiezen tussen "blauw" en "rood".
 
 ### 6. Bekijk het conflict
 Open `python/kleuren.py`. Je ziet zoiets:
 
 ```python
 def favoriete_kleur():
-    """Geeft de favoriete kleur terug."""
 <<<<<<< HEAD
-    return "groen"
+    return "blauw"
 =======
     return "rood"
 >>>>>>> feature/andere-kleur
@@ -73,8 +70,7 @@ Kies welke kleur je wilt (of combineer ze!). Verwijder de conflict markers:
 
 ```python
 def favoriete_kleur():
-    """Geeft de favoriete kleur terug."""
-    return "rood"    # Of "groen", of iets anders!
+    return "rood"    # Of "blauw", of iets anders!
 ```
 
 ### 8. Commit de oplossing
