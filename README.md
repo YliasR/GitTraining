@@ -52,3 +52,4 @@ GitTraining/
 ---
 
 *Training gegeven door studenten van [Thomas More](https://www.thomasmore.be/) hogeschool.*
+hi
