@@ -24,6 +24,8 @@ def kleur_mix(kleur1, kleur2):
         return "groen"
     elif kleur1 == "geel" and kleur2 == "blauw":
         return "groen"
+    elif kleur1 == "oranje" and kleur2 == "groen":
+        return "bruin"
     else:
         return "mix van " + kleur1 + " en " + kleur2
 
