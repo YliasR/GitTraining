@@ -1,5 +1,6 @@
 """
 Kleuren module - wordt gebruikt voor de merge conflict oefening!
+Het is een test 
 """
 
 
