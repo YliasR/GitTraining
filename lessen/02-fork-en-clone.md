@@ -7,8 +7,8 @@ Een **fork** is een kopie van iemand anders' repository naar jouw eigen GitHub a
 ```
 Originele repo (eigenaar)     Jouw fork (jouw account)
 ┌─────────────────┐           ┌─────────────────┐
-│  GitTraining     │  fork →   │  GitTraining     │
-│  (origineel)     │           │  (jouw kopie)    │
+│  GitTraining    │  fork →   │  GitTraining    │
+│  (origineel)    │           │  (jouw kopie)   │
 └─────────────────┘           └─────────────────┘
 ```
 
@@ -26,8 +26,8 @@ Originele repo (eigenaar)     Jouw fork (jouw account)
 ```
 GitHub (online)               Jouw computer (lokaal)
 ┌─────────────────┐           ┌─────────────────┐
-│  Jouw fork       │  clone →  │  GitTraining/    │
-│  (online kopie)  │           │  (lokale kopie)  │
+│  Jouw fork      │  clone →  │  GitTraining/   │
+│  (online kopie) │           │  (lokale kopie) │
 └─────────────────┘           └─────────────────┘
 ```
 

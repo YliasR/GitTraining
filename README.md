@@ -6,15 +6,17 @@
 
 ## Wat gaan we leren?
 
-| # | Onderwerp 
-|---|-----------
-| 1 | [Wat is Git & GitHub?](lessen/01-intro.md) 
-| 2 | [Forken & Clonen](lessen/02-fork-en-clone.md) 
-| 3 | [Wijzigingen maken: Stage, Commit & Push](lessen/03-commit-en-push.md) 
-| 4 | [Branching & Merging](lessen/04-branching.md) 
-| 5 | [Pull Requests](lessen/05-pull-requests.md) 
-| 6 | [Merge Conflicts](lessen/06-merge-conflicts.md) 
-| 7 | [GitHub Actions & Pages](lessen/07-actions-en-pages.md) 
+| # | Onderwerp | Tijd |
+|---|-----------|------|
+| 1 | [Wat is Git & GitHub?](lessen/01-intro.md) | 10 min |
+| 1.5 | [Git installeren & eerste setup](lessen/01b-git-installatie-en-setup.md) | 10 min |
+| 2 | [Forken & Clonen](lessen/02-fork-en-clone.md) | 10 min |
+| 3 | [Wijzigingen maken: Stage, Commit & Push](lessen/03-commit-en-push.md) | 15 min |
+| 4 | [Branching & Merging](lessen/04-branching.md) | 15 min |
+| 5 | [Pull Requests](lessen/05-pull-requests.md) | 10 min |
+| 6 | [Merge Conflicts](lessen/06-merge-conflicts.md) | 15 min |
+| 7 | [GitHub Actions & Pages](lessen/07-actions-en-pages.md) | 10 min |
+| 8 | [Revert, .gitignore & GitHub Issues](lessen/08-revert-gitignore-en-issues.md) | 10 min |
 
 
 
@@ -50,3 +52,4 @@ GitTraining/
 ---
 
 *Training gegeven door studenten van [Thomas More](https://www.thomasmore.be/) hogeschool.*
+hi

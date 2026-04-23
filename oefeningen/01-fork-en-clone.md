@@ -8,6 +8,7 @@ Je eigen kopie van deze repository krijgen op je computer.
 ### 1. Fork de repository
 - Ga naar de originele repository op GitHub
 - Klik op **"Fork"** rechtsboven
+- **Belangrijk:** zet het vinkje bij "Copy the `main` branch only" **UIT** zodat je alle branches meekrijgt!
 - Kies je eigen account
 
 ### 2. Clone je fork
@@ -40,5 +41,7 @@ git status
 - [ ] Repository geclonet naar je computer
 - [ ] `git remote -v` toont jouw fork
 - [ ] `git status` werkt zonder errors
+
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/02-fork-en-clone.md)!**
 
 **Klaar? Ga door naar [oefening 2](02-commit-en-push.md)!**

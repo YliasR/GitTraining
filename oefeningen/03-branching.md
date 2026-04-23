@@ -65,4 +65,8 @@ git branch -d feature/mijn-naam
 - [ ] Branch gemerged naar main
 - [ ] (Bonus) Branch verwijderd na merge
 
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/04-branching.md)!**
+
 **Klaar? Ga door naar [oefening 4](04-pull-request.md)!**
+
+**Wil je later verder oefenen van alles wat we tot en met git branching gezien hebben? Kijk voor meer oefeningen in een leuke game-vorm eens naar [Learn Git Branching](https://learngitbranching.js.org/)!**

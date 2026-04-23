@@ -10,11 +10,14 @@ Open `python/rekenmachine.py` en voeg een nieuwe functie toe, bijvoorbeeld:
 
 ```python
 def machtsverheffen(a, b):
-    """Verhef a tot de macht b."""
     return a ** b
 ```
 
-Vergeet niet de functie ook aan te roepen in `main()`!
+Vergeet niet de functie ook aan te roepen met een `print()`! Bijvoorbeeld:
+
+```python
+print("2 ** 3 =", machtsverheffen(2, 3))
+```
 
 ### 2. Test je code
 ```bash
@@ -62,5 +65,7 @@ Ga naar je fork op GitHub en kijk of je wijziging zichtbaar is!
 - [ ] Gecommit met een duidelijke boodschap
 - [ ] Gepusht naar GitHub
 - [ ] Wijziging zichtbaar op GitHub
+
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/03-commit-en-push.md)!**
 
 **Klaar? Ga door naar [oefening 3](03-branching.md)!**

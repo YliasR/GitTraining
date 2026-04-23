@@ -23,7 +23,7 @@ Dit is superhandig wanneer je:
 git checkout -b mijn-feature
 ```
 
-Dit doet twee dingen: maakt de branch **en** switcht ernaar.
+Dit doet twee dingen: **maakt** de branch aan en **switcht** ernaar.
 
 ### Alle branches bekijken
 
@@ -96,3 +96,5 @@ git branch -d mijn-feature
 **Oefening:** [Branching oefening](../oefeningen/03-branching.md)
 
 **Volgende les:** [Pull Requests](05-pull-requests.md)
+
+**Extra oefening voor diegenen die alles tot en met branching later opnieuw willen oefenen, gemaakt in een leuke game-vorm: [Learn Git Branching](learngitbranching.js.org) (helaas niet in het Nederlands beschikbaar).**

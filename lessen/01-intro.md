@@ -1,4 +1,4 @@
-# Les 1: Wat is Git & GitHub?
+# Les 1: Wat zijn Git & GitHub?
 
 ## Het probleem
 
@@ -50,7 +50,6 @@ GitHub biedt extra features bovenop Git:
 | Houdt versies bij | Slaat je repo online op |
 | Werkt offline | Heeft internet nodig |
 | Command line tool | Grafische interface + extra features |
-| Gemaakt door Linus Torvalds (2005) | Gemaakt door Tom Preston-Werner (2008) |
 
 ## Waarom is dit belangrijk?
 
@@ -62,4 +61,4 @@ GitHub biedt extra features bovenop Git:
 
 ---
 
-**Volgende les:** [Forken & Clonen](02-fork-en-clone.md)
+**Volgende les:** [Git installeren & eerste setup](01b-git-installatie-en-setup.md)

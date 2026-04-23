@@ -68,4 +68,6 @@ git push -u origin feature/quiz-vraag
 - [ ] Comment achtergelaten op je eigen PR
 - [ ] PR gemerged
 
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/05-pull-requests.md)!**
+
 **Klaar? Ga door naar [oefening 5](05-merge-conflict.md)!**
